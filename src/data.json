@@ -1,0 +1,785 @@
+{
+  "meta": {
+    "semesterStart": "2026-08-29",
+    "semesterEnd": "2026-11-29",
+    "generatedFrom": "10 supplied timetable PDFs"
+  },
+  "sections": {
+    "II ECE-DS A": {
+      "subjects": {
+        "A": "Transforms and Boundary Value Problems",
+        "B": "Solid State Devices",
+        "C": "Computer Organization and Architecture",
+        "D": "Digital Logic Design",
+        "E": "Electromagnetic Theory and Interference",
+        "F": "Professional Ethics",
+        "G": "Universal Human Values-II",
+        "H": "Verbal Reasoning",
+        "I": "Social Engineering",
+        "J": "Devices and Digital IC Laboratory"
+      },
+      "code": {
+        "A": "21MAB201T",
+        "B": "21ECC201T",
+        "C": "21CSB201T",
+        "D": "21ECC203T",
+        "E": "21ECC205T",
+        "F": "21LEM201T",
+        "G": "21LEM202T",
+        "H": "21PDM201L",
+        "I": "21PDH209T",
+        "J": "21ECC211L"
+      },
+      "schedule": {
+        "Monday": [
+          "E",
+          "A",
+          "A",
+          "A",
+          "A",
+          "B",
+          "B",
+          "H",
+          "H"
+        ],
+        "Tuesday": [
+          "C",
+          "A",
+          "E",
+          "D",
+          "D",
+          "B",
+          "B",
+          "I",
+          "I"
+        ],
+        "Wednesday": [
+          "A",
+          "B",
+          "C",
+          "D",
+          null,
+          null,
+          "H",
+          "H",
+          null
+        ],
+        "Thursday": [
+          "B",
+          "C",
+          "A",
+          "F",
+          "F",
+          "J",
+          "J",
+          null,
+          null
+        ],
+        "Friday": [
+          "D",
+          "B",
+          "E",
+          "C",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "II ECE-DS B": {
+      "subjects": {
+        "A": "Transforms and Boundary Value Problems",
+        "B": "Solid State Devices",
+        "C": "Computer Organization and Architecture",
+        "D": "Digital Logic Design",
+        "E": "Electromagnetic Theory and Interference",
+        "F": "Professional Ethics",
+        "G": "Universal Human Values-II",
+        "H": "Verbal Reasoning",
+        "I": "Social Engineering",
+        "J": "Devices and Digital IC Laboratory"
+      },
+      "code": {
+        "A": "21MAB201T",
+        "B": "21ECC201T",
+        "C": "21CSB201T",
+        "D": "21ECC203T",
+        "E": "21ECC205T",
+        "F": "21LEM201T",
+        "G": "21LEM202T",
+        "H": "21PDM201L",
+        "I": "21PDH209T",
+        "J": "21ECC211L"
+      },
+      "schedule": {
+        "Monday": [
+          "E",
+          "A",
+          "A",
+          "A",
+          "A",
+          "B",
+          "B",
+          "H",
+          "H"
+        ],
+        "Tuesday": [
+          "C",
+          "A",
+          "E",
+          "D",
+          "D",
+          "B",
+          "B",
+          "I",
+          "I"
+        ],
+        "Wednesday": [
+          "A",
+          "B",
+          "C",
+          "D",
+          null,
+          null,
+          "H",
+          "H",
+          null
+        ],
+        "Thursday": [
+          "B",
+          "C",
+          "A",
+          "F",
+          "F",
+          "J",
+          "J",
+          null,
+          null
+        ],
+        "Friday": [
+          "D",
+          "B",
+          "E",
+          "C",
+          "F",
+          "F",
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "II BME": {
+      "subjects": {
+        "A": "Transforms and Boundary Value Problems",
+        "B": "Biomedical Signals and Systems",
+        "C": "Electric and Electronic Circuits",
+        "D": "Digital Logic for Medical Systems",
+        "E": "Medical Physics",
+        "F": "Professional Ethics",
+        "G": "Universal Human Values-II",
+        "H": "Verbal Reasoning",
+        "I": "Social Engineering"
+      },
+      "code": {
+        "A": "21MAB201T",
+        "B": "21BMC202T",
+        "C": "21BMC203T",
+        "D": "21BMC204T",
+        "E": "21PYS202T",
+        "F": "21LEM201T",
+        "G": "21LEM202T",
+        "H": "21PDM201L",
+        "I": "21PDH209T"
+      },
+      "schedule": {
+        "Monday": [
+          "C",
+          "E",
+          "E",
+          "E",
+          null,
+          null,
+          null,
+          "F",
+          "F"
+        ],
+        "Tuesday": [
+          "E",
+          "B",
+          "A",
+          "A",
+          "B",
+          "A",
+          "B",
+          "I",
+          "I"
+        ],
+        "Wednesday": [
+          "D",
+          "B",
+          "A",
+          "A",
+          null,
+          null,
+          "H",
+          "H",
+          null
+        ],
+        "Thursday": [
+          "A",
+          "D",
+          "B",
+          "B",
+          "A",
+          "C",
+          "C",
+          null,
+          null
+        ],
+        "Friday": [
+          "D",
+          "A",
+          "E",
+          "B",
+          "F",
+          "F",
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "III ECE-A": {
+      "subjects": {
+        "A": "Microprocessor, Microcontroller, and Interfacing Techniques",
+        "B": "VLSI Design and Technology",
+        "C": "System and Network on Chip",
+        "D": "Machine Learning for All",
+        "E": "Analytical Thinking",
+        "F": "VLSI Design / Microprocessor Laboratory"
+      },
+      "code": {
+        "A": "21ECC301T",
+        "B": "21ECC303T",
+        "C": "21ECE468T",
+        "D": "21CSO355T",
+        "E": "21PDM301L",
+        "F": "21ECC311L"
+      },
+      "schedule": {
+        "Monday": [
+          "A",
+          "B",
+          "B",
+          "A",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "Tuesday": [
+          "A",
+          "B",
+          "A",
+          "E",
+          "E",
+          "B",
+          "B",
+          null,
+          null
+        ],
+        "Wednesday": [
+          "C",
+          "A",
+          "A",
+          "A",
+          null,
+          null,
+          "F",
+          "F",
+          "F"
+        ],
+        "Thursday": [
+          "A",
+          "C",
+          "B",
+          "B",
+          "C",
+          "C",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "B",
+          "A",
+          "D",
+          "D",
+          "B",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "III ECE-B": {
+      "subjects": {
+        "A": "Microprocessor, Microcontroller, and Interfacing Techniques",
+        "B": "Analytical Thinking",
+        "C": "VLSI Design / Microprocessor Laboratory",
+        "D": "System and Network on Chip",
+        "E": "VLSI Design and Technology",
+        "F": "Machine Learning for All",
+        "G": "Universal Human Values-II"
+      },
+      "code": {
+        "A": "21ECC301T",
+        "B": "21PDM301L",
+        "C": "21ECC311L",
+        "D": "21ECE468T",
+        "E": "21ECC303T",
+        "F": "21CSO355T",
+        "G": "21LEM202T"
+      },
+      "schedule": {
+        "Monday": [
+          "C",
+          "C",
+          "A",
+          "A",
+          "E",
+          "E",
+          "F",
+          "F",
+          "F"
+        ],
+        "Tuesday": [
+          "A",
+          "E",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          null,
+          null
+        ],
+        "Wednesday": [
+          "A",
+          "A",
+          "D",
+          "E",
+          "E",
+          "A",
+          "A",
+          "H",
+          null
+        ],
+        "Thursday": [
+          "A",
+          "B",
+          "E",
+          "E",
+          "F",
+          "F",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "E",
+          "A",
+          "D",
+          "D",
+          "B",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "III ECE-DS": {
+      "subjects": {
+        "A": "Microprocessor, Microcontroller, and Interfacing Techniques",
+        "B": "Management",
+        "C": "Analytical Thinking",
+        "D": "VLSI Design / Microprocessor Laboratory",
+        "E": "System and Network on Chip",
+        "F": "VLSI Design and Technology",
+        "G": "Machine Learning for All",
+        "H": "Universal Human Values-II"
+      },
+      "code": {
+        "A": "21ECC301T",
+        "B": "21MGT301T",
+        "C": "21PDM301L",
+        "D": "21ECC311L",
+        "E": "21ECE468T",
+        "F": "21ECC303T",
+        "G": "21CSO355T",
+        "H": "21LEM202T"
+      },
+      "schedule": {
+        "Monday": [
+          "E",
+          "A",
+          "C",
+          "C",
+          "A",
+          "A",
+          "D",
+          "D",
+          "D"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "F",
+          "D",
+          "D",
+          "E",
+          "E",
+          "A",
+          "A"
+        ],
+        "Wednesday": [
+          "H",
+          "A",
+          "A",
+          "F",
+          "F",
+          null,
+          "A",
+          "G",
+          "G"
+        ],
+        "Thursday": [
+          "A",
+          "C",
+          "F",
+          "F",
+          "G",
+          "G",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "F",
+          "A",
+          "E",
+          "E",
+          "C",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "III BME": {
+      "subjects": {
+        "A": "Microcontrollers and Its Application in Medicine",
+        "B": "Biomedical Signal Processing System",
+        "C": "Principles of Medical Imaging",
+        "D": "Community Connect"
+      },
+      "code": {
+        "A": "21BMC302T",
+        "B": "21BMC301T",
+        "C": "21GNP301T",
+        "D": "21GNP301L"
+      },
+      "schedule": {
+        "Monday": [
+          "A",
+          "A",
+          "A",
+          "B",
+          "B",
+          "B",
+          "C",
+          "C",
+          "C"
+        ],
+        "Tuesday": [
+          "A",
+          "B",
+          "A",
+          "A",
+          "C",
+          "C",
+          "B",
+          "B",
+          "B"
+        ],
+        "Wednesday": [
+          "B",
+          "A",
+          "D",
+          "D",
+          "D",
+          null,
+          "C",
+          "C",
+          "C"
+        ],
+        "Thursday": [
+          "A",
+          "A",
+          "B",
+          "B",
+          "C",
+          "C",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "B",
+          "B",
+          "A",
+          "A",
+          "C",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "IV ECE-A": {
+      "subjects": {
+        "A": "Behavioural Psychology",
+        "B": "Wireless Communication and Antenna Systems",
+        "C": "Computer Communication and Network Security",
+        "D": "Semiconductor Memory Design",
+        "E": "Scripting Language for Electronic Design Automation",
+        "F": "Machine Learning for All",
+        "G": "Compiler Communication and Network Security"
+      },
+      "code": {
+        "A": "21GNH401T",
+        "B": "21ECC401T",
+        "C": "21ECC402P",
+        "D": "21ECE461T",
+        "E": "21ECE463T",
+        "F": "21CSO355T",
+        "G": "21ECE468T"
+      },
+      "schedule": {
+        "Monday": [
+          "C",
+          "C",
+          "A",
+          "A",
+          "B",
+          "B",
+          "G",
+          "G",
+          "G"
+        ],
+        "Tuesday": [
+          "C",
+          "D",
+          "E",
+          "E",
+          "D",
+          "D",
+          "B",
+          "B",
+          null
+        ],
+        "Wednesday": [
+          "A",
+          "A",
+          "F",
+          "F",
+          null,
+          null,
+          "C",
+          "C",
+          "C"
+        ],
+        "Thursday": [
+          "D",
+          "E",
+          "E",
+          "G",
+          "G",
+          "B",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "E",
+          "A",
+          "D",
+          "D",
+          "F",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "IV ECE-B": {
+      "subjects": {
+        "A": "Behavioural Psychology",
+        "B": "Wireless Communication and Antenna Systems",
+        "C": "Computer Communication and Network Security",
+        "D": "Semiconductor Memory Design",
+        "E": "Scripting Language for Electronic Design Automation",
+        "F": "Machine Learning for All"
+      },
+      "code": {
+        "A": "21GNH401T",
+        "B": "21ECC401T",
+        "C": "21ECC402P",
+        "D": "21ECE461T",
+        "E": "21ECE463T",
+        "F": "21CSO355T"
+      },
+      "schedule": {
+        "Monday": [
+          "C",
+          "A",
+          "A",
+          "B",
+          "B",
+          "F",
+          "F",
+          null,
+          null
+        ],
+        "Tuesday": [
+          "D",
+          "B",
+          "E",
+          "E",
+          "D",
+          "D",
+          "B",
+          "B",
+          null
+        ],
+        "Wednesday": [
+          "A",
+          "A",
+          "F",
+          "F",
+          null,
+          null,
+          "C",
+          "C",
+          "C"
+        ],
+        "Thursday": [
+          "D",
+          "E",
+          "E",
+          "G",
+          "G",
+          "B",
+          null,
+          null,
+          null
+        ],
+        "Friday": [
+          "E",
+          "A",
+          "D",
+          "D",
+          "F",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "I Year ECE-A": {
+      "subjects": {
+        "A": "Engineering Mathematics",
+        "B": "Engineering Physics",
+        "C": "Engineering Chemistry",
+        "D": "Programming in C",
+        "E": "English",
+        "F": "Engineering Graphics"
+      },
+      "code": {
+        "A": "FY-MATH",
+        "B": "FY-PHYS",
+        "C": "FY-CHEM",
+        "D": "FY-C",
+        "E": "FY-ENG",
+        "F": "FY-EG"
+      },
+      "schedule": {
+        "Monday": [
+          "E",
+          "E",
+          "B",
+          "A",
+          "F",
+          "F",
+          "A",
+          "A",
+          "A"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "A",
+          "D",
+          "D",
+          "F",
+          "F",
+          null,
+          null
+        ],
+        "Wednesday": [
+          "A",
+          "C",
+          "B",
+          "D",
+          "E",
+          "E",
+          "A",
+          "A",
+          "A"
+        ],
+        "Thursday": [
+          "B",
+          "A",
+          "C",
+          "C",
+          "D",
+          "D",
+          "E",
+          "E",
+          null
+        ],
+        "Friday": [
+          "C",
+          "C",
+          "A",
+          "B",
+          "D",
+          "D",
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  }
+}
